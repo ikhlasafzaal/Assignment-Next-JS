@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Combined Assignments 2, 3, 4 & 5
 
-## Getting Started
+Welcome to the GitHub repository for Assignments 2, 3, 4, and 5! This repository will contain all today's code and future updates. 🚀
 
-First, run the development server:
+## Assignment 2: Personal Profile Page
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 📝 Assignment Details:
+Your task is to continue working on the codebase from where we left off today. Add a personal description on the left side and place your profile picture on the right. Feel free to get creative! 🎨 Experiment with colors, fonts, shadows, and any other design enhancements to improve the overall presentation. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+*Sample design attached with this message.* ✨
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+We’ll provide the assignment submission form on Saturday night to track your progress.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Assignment 3: Adding Header and Footer
 
-To learn more about Next.js, take a look at the following resources:
+### 📝 Assignment Details:
+For Assignment 3, you will continue working on the same codebase from the previous assignment. This time, you'll be adding a header and footer to the profile section page. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Requirements:
+- In the header, include links that will route to the following pages:
+  - Portfolio
+  - About
+  - Contact Us
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+These pages can be simple, dummy pages with just a title displayed for now. The focus of this assignment is on layout and design.
 
-## Deploy on Vercel
+Feel free to continue experimenting with colors, fonts, shadows, and any other design enhancements that improve the overall presentation of the page.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Assignment 4 & 5: Create a Blogging Website
+
+### 📝 Assignment Details:
+Your task is to create a fully responsive blogging website that meets the following requirements:
+
+1. **Homepage**: Display a minimum of 6 blogs on the homepage. Each blog should have its own title, brief description, and image (if possible).
+
+2. **Blog Details Page**: When a user clicks on a blog, it should navigate to a detailed blog page with full content.
+
+3. **Animations**: Use keyframe and transition animations to enhance the user experience.
+
+4. **Color Palette**: Apply color theory principles when selecting your color palette to ensure the website is visually appealing and cohesive.
+
+5. **Layout**: The header and footer should remain static in the layout (i.e., they must be part of a shared layout file).
+
+6. **Responsiveness**: Ensure the design is fully responsive, providing a smooth experience.
+
+
+Hope this brings out the creativity in your design! 
